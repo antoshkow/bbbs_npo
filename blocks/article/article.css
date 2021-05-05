@@ -1,0 +1,13 @@
+.article {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 144%;
+  color: #000;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .article {
+    font-size: 15px;
+    line-height: 140%;
+  }
+}

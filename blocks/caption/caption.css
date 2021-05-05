@@ -1,0 +1,14 @@
+.caption {
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 136%;
+  letter-spacing: .2px;
+  color: #000;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .caption {
+    font-size: 12px;
+    line-height: 142%;
+  }
+}

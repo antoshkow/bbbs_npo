@@ -1,0 +1,13 @@
+.title-h2 {
+  font-size: 23px;
+  font-weight: 300;
+  line-height: 130%;
+  color: #000;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .title-h2 {
+    font-size: 19px;
+    line-height: 121%;
+  }
+}

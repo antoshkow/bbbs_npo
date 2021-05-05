@@ -1,0 +1,14 @@
+.click-item {
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 127%;
+  letter-spacing: 0.2px;
+  color: #224cff;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .click-item {
+    font-size: 12px;
+    line-height: 142%;
+  }
+}

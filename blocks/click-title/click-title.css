@@ -1,0 +1,10 @@
+.click-title {
+  font-weight: 300;
+  font-size: 23px;
+  line-height: 130%;
+  color: #000
+}
+
+.click-title:hover {
+  color: #224cff;
+}
