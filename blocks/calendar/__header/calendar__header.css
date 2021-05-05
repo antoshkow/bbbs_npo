@@ -1,0 +1,5 @@
+.calendar__header {
+  display: grid;
+  grid-template-columns: auto, auto;
+  grid-template-rows: auto, auto;
+}
