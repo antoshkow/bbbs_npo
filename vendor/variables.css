@@ -1,0 +1,17 @@
+/* variables*/
+
+:root {
+  --basic-black: #000;
+  --basic-blue: #224cff;
+  --basic-orange: #ff8585;
+  --basic-yellow: #f8d162;
+  --basic-green: #8cdd94;
+
+  --dark-blue: #2E2468;
+  --dark-gray: #464646;
+  --light-gray: #a7a6a6;
+  --lighter-gray: #e0e0e0;
+  --light-blue: #c8d1ff;
+
+  --error: #ff4e4e;
+}
