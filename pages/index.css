@@ -1,5 +1,6 @@
 @import url(../vendor/normalize.css);
 @import url(../vendor/fonts/fonts.css);
+@import url(../vendor/variables.css);
 
 @import url(../blocks/calendar/calendar.css);
 @import url(../blocks/calendar/__activity/calendar__activity.css);
