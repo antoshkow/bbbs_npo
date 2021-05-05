@@ -11,12 +11,12 @@
 }
 
 @font-face {
-  font-family: 'Proto Grotest-Light_Web';
+  font-family: 'Proto Grotesk Web Light';
   font-style:  normal;
   font-weight: 300;
   font-display: swap;
-  src: url(./Proto\ Grotesk-Light-Web.woff2) format("woff2"),
-       url(./Proto\ Grotesk-Light-Web.woff) format("woff"),
-       url(./Proto\ Grotesk-Light-Web.ttf) format("ttf"),
-       url(./Proto\ Grotesk-Light-Web.eot) format("eot");
+  src: url(./Proto_Grotesk-Light-Web.woff2) format("woff2"),
+       url(./Proto_Grotesk-Light-Web.woff) format("woff"),
+       url(./Proto_Grotesk-Light-Web.ttf) format("ttf"),
+       url(./Proto_Grotesk-Light-Web.eot) format("eot");
 }

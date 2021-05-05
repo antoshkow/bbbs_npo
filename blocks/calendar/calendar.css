@@ -1,4 +1,6 @@
 .calendar {
+  margin: auto;
   display: flex;
   flex-direction: column;
+  max-width: 570px;
 }
