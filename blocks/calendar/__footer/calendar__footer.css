@@ -1,0 +1,6 @@
+.calendar__footer {
+  display: flex;
+  justify-content: space-between;
+  margin: 0 30px 30px 30px;
+  max-width: 570px;
+}

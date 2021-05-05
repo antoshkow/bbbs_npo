@@ -3,8 +3,9 @@
 
 @import url(../blocks/calendar/calendar.css);
 @import url(../blocks/calendar/__activity/calendar__activity.css);
-@import url(../blocks/calendar/__button/calendar__button.css);
+@import url(../blocks/calendar/__button/calendar__btn.css);
 @import url(../blocks/calendar/__contacts/calendar__contacts.css);
+@import url(../blocks/calendar/__contact/calendar__contact.css);
 @import url(../blocks/calendar/__date/calendar__date.css);
 @import url(../blocks/calendar/__footer/calendar__footer.css);
 @import url(../blocks/calendar/__header/calendar__header.css);

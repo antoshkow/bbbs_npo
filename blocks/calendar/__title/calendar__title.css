@@ -3,4 +3,6 @@
   font-weight: 400;
   line-height: 19px;
   color: #464646;
+  grid-area: title;
+  margin: 0;
 }
