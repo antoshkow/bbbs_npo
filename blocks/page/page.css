@@ -1,0 +1,7 @@
+.page {
+  background-color: #F3F2F2;
+  min-width: 320px;
+  margin: 0 auto;
+  font-family: "Proto Grotesk Web Light", "PT-Root-UI-Regular", Arial, Helvetica, sans-serif;
+  z-index: 1;
+}

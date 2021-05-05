@@ -2,6 +2,13 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/variables.css);
 
+@import url(../blocks/page/page.css);
+
+@import url(../blocks/events/events.css);
+
+@import url(../blocks/page-title/page-title.css);
+@import url(../blocks/page-title/__buttons/page-title__buttons.css);
+
 @import url(../blocks/calendar/calendar.css);
 @import url(../blocks/calendar/__activity/calendar__activity.css);
 @import url(../blocks/calendar/__btn/calendar__btn.css);

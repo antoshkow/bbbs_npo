@@ -1,0 +1,9 @@
+.page-title__buttons {
+  display: flex;
+  justify-content: space-between;
+  list-style: none;
+  padding-left: 0;
+  margin: 40px;
+  max-width: 850px;
+  margin: 40px 0 80px 0;
+}
