@@ -1,16 +1,16 @@
-.calendar__month {
+.calendar__members {
+  font-weight: 400;
   font-size: 14px;
   line-height: 136%;
-  font-weight: 400;
-  text-align: right;
+  letter-spacing: .2px;
   color: #000;
   margin: 0;
+  margin-left: 15px;
   letter-spacing: .2px;
-  grid-area: month;
 }
 
 @media (min-width: 320px) and (max-width: 640px) {
-  .calendar__month {
+  .calendar__members {
     font-size: 12px;
     line-height: 142%;
   }
