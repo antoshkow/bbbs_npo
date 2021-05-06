@@ -1,0 +1,17 @@
+/* Socail */
+
+.social {
+  padding: 0;
+  list-style: none;
+  display: none;
+  flex-wrap: wrap;
+}
+
+
+@media (max-width: 1340px) {
+  .social {
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+  }
+}

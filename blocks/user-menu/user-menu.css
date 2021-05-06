@@ -1,0 +1,7 @@
+/* User-menu */
+
+.user-menu {
+  display: flex;
+  padding: 0;
+  list-style: none;
+}

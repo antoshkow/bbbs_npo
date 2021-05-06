@@ -1,0 +1,24 @@
+.user-menu__item {
+  position: relative;
+  padding: 0 15px;
+}
+
+.user-menu__item:last-child {
+  padding-right: 0;
+}
+
+.user-menu__item:not(:first-child)::before {
+  position: absolute;
+  top: 5px;
+  left: 0px;
+  content: "";
+  width: 1px;
+  height: 20px;
+  background-color: var(--light-gray);
+}
+
+@media (max-width: 1025px) {
+  .user-menu__item:not(:first-child) {
+    display: none;
+  }
+}

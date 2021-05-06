@@ -1,0 +1,10 @@
+.menu__link {
+  font-family: "Proto Grotesk Web Light", "Arial", sans-serif;
+  font-weight: 300;
+  font-size: 14px;
+  line-height: 121%;
+  letter-spacing: .2px;
+  text-decoration: none;
+  text-transform: uppercase;
+  color: var(--basic-black);
+}

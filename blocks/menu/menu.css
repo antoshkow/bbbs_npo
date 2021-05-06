@@ -1,0 +1,22 @@
+/* Menu */
+
+.menu {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0;
+  list-style: none;
+}
+
+@media  (max-width: 1340px) {
+  .menu {
+    display: flex;
+    flex-direction: column;
+    margin-right: 126px;
+  }
+}
+
+@media  (max-width: 768px) {
+  .menu {
+    margin-right: 26px;
+  }
+}

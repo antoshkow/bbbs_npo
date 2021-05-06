@@ -1,0 +1,20 @@
+.header__logo {
+  display: block;
+  width: 183px;
+  height: 31px;
+}
+
+@media (max-width: 1340px) {
+  .header__logo {
+    margin: 0 auto;
+  }
+}
+
+@media (max-width: 1180px) {
+  .header__logo {
+    width: 130px;
+    height: 20px;
+    order: 1;
+    margin: 0 auto;
+  }
+}

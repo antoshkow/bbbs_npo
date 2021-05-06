@@ -33,14 +33,7 @@
 
 @media (max-width: 768px) {
   .page {
-    grid-template-columns: 50px minmax(290px, 668px) 50px;
-  }
-}
-
-
-@media (max-width: 320px) {
-  .page {
-    grid-template-columns: 15px minmax(290px, 290px) 15px;
+    grid-template-columns: 15px minmax(290px, 668px) 15px;
     grid-template-areas:
     "header header header"
     ". main ."
