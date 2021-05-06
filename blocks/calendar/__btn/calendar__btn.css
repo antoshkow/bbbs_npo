@@ -1,0 +1,9 @@
+.calendar__btn {
+  width: 127px;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar__btn {
+  width: 100px;
+  }
+}

@@ -3,4 +3,14 @@
   display: flex;
   flex-direction: column;
   max-width: 570px;
+  background: #fff;
+  border-radius: 30px;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar {
+    max-width: 290px;
+    font-size: 19px;
+    line-height: 121%;
+  }
 }

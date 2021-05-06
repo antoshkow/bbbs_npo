@@ -12,3 +12,12 @@
   border-bottom: none;
   padding-bottom: 0;
 }
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar__contact {
+    font-size: 12px;
+    line-height: 142%;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+}

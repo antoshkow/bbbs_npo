@@ -3,6 +3,6 @@
   background: #000;
 }
 
-.button:hover {
+.button_pushed:hover {
   background:  #2e2468;
 }

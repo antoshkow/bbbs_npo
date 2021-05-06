@@ -1,6 +1,5 @@
 .calendar__header {
   margin: 30px 30px 40px 30px;
-  max-width: 100%;
   column-gap: 36px;
   row-gap: 10px;
   display: grid;
@@ -9,4 +8,16 @@
   grid-template-areas:
     "title month"
     "activity date";
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar__header {
+    margin: 30px 15px 45px 15px;
+    grid-template-areas:
+      "title month month"
+      "activity activity date";
+    grid-template-columns: 103px 63px 70px;
+    column-gap: 12px;
+    row-gap: 5px;
+  }
 }

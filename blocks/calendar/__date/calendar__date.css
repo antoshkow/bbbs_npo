@@ -1,7 +1,4 @@
 .calendar__date {
-  font-weight: 300;
-  font-size: 100px;
-  line-height: 100%;
-  margin: 0;
+  text-align: right;
   grid-area: date;
 }
