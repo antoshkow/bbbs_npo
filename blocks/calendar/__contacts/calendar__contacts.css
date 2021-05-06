@@ -7,7 +7,14 @@
   padding-left: 0;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .calendar__contacts {
+    max-width: 340px;
+    margin: 0 15px 30px 15px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
   .calendar__contacts {
     max-width: 260px;
     margin: 0 15px 30px 15px;

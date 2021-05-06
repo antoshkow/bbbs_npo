@@ -9,7 +9,7 @@
   letter-spacing: .2px;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 320px) and (max-width: 1439px) {
   .calendar__month {
     font-size: 12px;
     line-height: 142%;

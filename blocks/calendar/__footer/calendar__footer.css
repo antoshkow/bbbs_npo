@@ -5,8 +5,8 @@
   max-width: 570px;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 320px) and (max-width: 1439px) {
   .calendar__footer {
-    margin: 0 17px 30px 15px;
+    margin: 0 15px 30px 15px;
   }
 }
