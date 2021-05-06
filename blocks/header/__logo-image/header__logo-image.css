@@ -1,0 +1,10 @@
+.header__logo-image {
+  display: block;
+  width: 100%;
+  height: auto;
+  color: var(--basic-blue);
+}
+
+.header__logo-image:hover {
+  color: var(--dark-blue);
+}

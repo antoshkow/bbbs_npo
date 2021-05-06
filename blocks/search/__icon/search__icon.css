@@ -1,0 +1,11 @@
+.search__icon {
+  display: block;
+  width: 30px;
+  height: 30px;
+  margin-right: 10px;
+  text-decoration: none;
+  background-image: url(../../../images/icon-search.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  cursor: pointer;
+}

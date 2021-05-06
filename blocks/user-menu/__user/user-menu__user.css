@@ -1,0 +1,8 @@
+.user-menu__user {
+  display: block;
+  width: 30px;
+  height: 30px;
+  background-image: url(../../../images/icon-account.svg);
+  background-repeat: no-repeat;
+  background-position: center center;
+}

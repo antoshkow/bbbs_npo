@@ -1,0 +1,13 @@
+.header__user-menu {
+  margin: 0;
+}
+
+@media (max-width: 1340px) {
+  .header__user-menu {
+    order: -1;
+  }
+
+  .header__user-menu_pos_absolute {
+    position: absolute;
+  }
+}

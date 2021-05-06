@@ -2,6 +2,11 @@
 @import url(../vendor/fonts/fonts.css);
 @import url(../vendor/variables.css);
 
+@import url(../blocks/page/page.css);
+@import url(../blocks/page/__header/page__header.css);
+@import url(../blocks/page/__main/page__main.css);
+@import url(../blocks/page/__footer/page__footer.css);
+
 @import url(../blocks/calendar/calendar.css);
 @import url(../blocks/calendar/__activity/calendar__activity.css);
 @import url(../blocks/calendar/__button/calendar__btn.css);
@@ -12,3 +17,30 @@
 @import url(../blocks/calendar/__header/calendar__header.css);
 @import url(../blocks/calendar/__month/calendar__month.css);
 @import url(../blocks/calendar/__title/calendar__title.css);
+
+@import url(../blocks/header/header.css);
+@import url(../blocks/header/__logo/header__logo.css);
+@import url(../blocks/header/__logo-image/header__logo-image.css);
+@import url(../blocks/header/__nav/header__nav.css);
+@import url(../blocks/header/__nav/_hidden/header__nav_hidden.css);
+@import url(../blocks/header/__menu/header__menu.css);
+@import url(../blocks/header/__burger/header__burger.css);
+@import url(../blocks/header/__social/header__social.css);
+@import url(../blocks/header/__user-menu/header__user-menu.css);
+
+@import url(../blocks/menu/menu.css);
+@import url(../blocks/menu/__item/menu__item.css);
+@import url(../blocks/menu/__link/menu__link.css);
+
+@import url(../blocks/social/social.css);
+@import url(../blocks/social/__item/social__item.css);
+@import url(../blocks/social/__link/social__link.css);
+
+@import url(../blocks/user-menu/user-menu.css);
+@import url(../blocks/user-menu/__item/user-menu__item.css);
+@import url(../blocks/user-menu/__user/user-menu__user.css);
+
+@import url(../blocks/search/search.css);
+@import url(../blocks/search/__label/search__label.css);
+@import url(../blocks/search/__icon/search__icon.css);
+@import url(../blocks/search/__input/search__input.css);

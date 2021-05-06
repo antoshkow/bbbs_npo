@@ -1,0 +1,14 @@
+.menu__item:not(:last-child) {
+  margin-right: 30px;
+}
+
+
+@media (max-width: 1340px) {
+  .menu__item:not(:last-child) {
+    margin: 0;
+  }
+
+  .menu__item:not(:last-child) {
+    margin-bottom: 15px;
+  }
+}
