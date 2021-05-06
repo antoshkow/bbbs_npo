@@ -43,6 +43,7 @@
 @import url(../blocks/search/__input/search__input.css);
 
 @import url(../blocks/calendar/calendar.css);
+@import url(../blocks/calendar/_active/calendar_active.css);
 @import url(../blocks/calendar/__activity/calendar__activity.css);
 @import url(../blocks/calendar/__btn/calendar__btn.css);
 @import url(../blocks/calendar/__contacts/calendar__contacts.css);

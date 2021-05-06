@@ -11,8 +11,10 @@
   color: #224cff;
   letter-spacing: .2px;
   background-color: transparent;
-  padding: 0;
-
+  padding-left: 20px;
+  padding-right: 20px;
+  padding-top: 0;
+  padding-bottom: 0;
 }
 
 .button_light:hover {

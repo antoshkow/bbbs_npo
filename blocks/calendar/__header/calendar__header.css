@@ -10,7 +10,20 @@
     "activity date";
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .calendar__header {
+    grid-template-areas:
+      "title month month"
+      "activity activity date";
+    grid-template-columns: 103px 140px 91px;
+    margin: 30px 15px 68px 15px;
+    column-gap: 3px;
+    row-gap: 10px;
+
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
   .calendar__header {
     margin: 30px 15px 45px 15px;
     grid-template-areas:

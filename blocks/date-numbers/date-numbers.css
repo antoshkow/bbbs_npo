@@ -7,9 +7,9 @@
   letter-spacing: -2px;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 320px) and (max-width: 1439px) {
   .date-numbers {
     font-size: 60px;
-    line-height: 60px;
+    line-height: 100%;
   }
 }

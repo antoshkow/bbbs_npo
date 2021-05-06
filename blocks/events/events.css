@@ -4,7 +4,19 @@
   max-width: 1920px;
   grid-template-columns: repeat(auto-fill, 570px);
   gap: 30px;
-  padding-left: 75px;
-  padding-right: 75px;
-  margin: 0;
+  padding-bottom: 120px;
+  justify-content: center;
+}
+
+@media (min-width: 1024px) and (max-width: 1439px) {
+  .events {
+    grid-template-columns: repeat(auto-fill, 370px);
+    padding-bottom: 100px;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .events {
+    grid-template-columns: repeat(auto-fill, 290px);
+  }
 }
