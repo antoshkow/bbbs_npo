@@ -6,3 +6,10 @@
   margin: 0;
   grid-area: activity;
 }
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar__activity {
+    font-size: 19px;
+    line-height: 121%;
+  }
+}

@@ -1,0 +1,16 @@
+.calendar__circle-btn {
+  background-image: url(../../../images/calendar-btn.svg);
+  width: 48px;
+  height: 48px;
+  background-color: transparent;
+  border: none;
+  padding: 0;
+}
+
+@media (min-width: 320px) and (max-width: 640px) {
+  .calendar__circle-btn {
+    width: 40px;
+    height: 40px;
+    background-size: 40px;
+  }
+}
