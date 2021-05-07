@@ -1,16 +1,10 @@
-.title-h1 {
-  font-weight: 300;
+.title_size_h1 {
   font-size: 74px;
   line-height: 108%;
-  color: #000;
-  padding-top: 80px;
-  text-align: center;
-  width: max-content;
-  margin: 0;
 }
 
 @media (min-width: 320px) and (max-width: 640px) {
-  .title-h1 {
+  .title_size_h1 {
     font-size: 37px;
     line-height: 105%;
   }

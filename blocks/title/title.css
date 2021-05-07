@@ -1,0 +1,7 @@
+/* Title */
+
+.title {
+  font-family: "Proto Grotesk", "Arial", sans-serif;
+  font-weight: 300;
+  color: var(--basic-black);
+}
