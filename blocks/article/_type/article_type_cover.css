@@ -1,0 +1,5 @@
+.article_type_cover {
+  background-color: var(--basic-yellow);
+  width: 100%;
+  max-width: 1185px;
+}

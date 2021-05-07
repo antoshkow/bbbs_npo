@@ -1,0 +1,15 @@
+.article__header {
+  margin: 0 0 70px;
+}
+
+@media (max-width: 1024px) {
+  .article__header {
+    margin-bottom: 62px;
+  }
+}
+
+@media (max-width: 768px) {
+  .article__header {
+    margin-bottom: 37px;
+  }
+}

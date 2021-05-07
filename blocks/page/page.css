@@ -31,7 +31,7 @@
 
 @media (max-width: 1024px) {
   .page {
-    grid-template-columns: 117px minmax(290px, 790px) 117px;
+    grid-template-columns: 127px minmax(290px, 790px) 127px;
   }
 }
 
