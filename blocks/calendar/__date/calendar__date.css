@@ -1,4 +1,17 @@
 .calendar__date {
+  font-weight: 300;
+  font-size: 100px;
+  line-height: 100%;
+  margin: 0;
+  color: #000;
+  letter-spacing: -2px;
   text-align: right;
   grid-area: date;
+}
+
+@media (min-width: 320px) and (max-width: 1439px) {
+  .calendar__date {
+    font-size: 60px;
+    line-height: 100%;
+  }
 }

@@ -1,0 +1,16 @@
+@media (min-width: 1024px) {
+  .calendar__header_popup {
+    grid-template-columns: 320px 133px;
+    margin: 50px 100px 40px 100px;
+    column-gap: 117px;
+    grid-template-areas:
+    "title month"
+    "activity date";
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .calendar__header_popup {
+    margin-top: 60px;
+  }
+}

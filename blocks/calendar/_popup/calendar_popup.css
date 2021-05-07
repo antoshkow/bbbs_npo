@@ -1,0 +1,10 @@
+.calendar_popup {
+  min-width: 770px;
+  position: fixed;
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .calendar_popup {
+    min-width: 290px;
+  }
+}
