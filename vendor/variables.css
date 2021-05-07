@@ -6,6 +6,7 @@
   --basic-orange: #ff8585;
   --basic-yellow: #f8d162;
   --basic-green: #8cdd94;
+  --basic-gray: #f3f2f2;
 
   --dark-blue: #2e2468;
   --dark-gray: #464646;
@@ -14,4 +15,6 @@
   --light-blue: #c8d1ff;
 
   --error: #ff4e4e;
+
+  --special-white-30: rgba(255, 255, 255, 0.3);
 }
