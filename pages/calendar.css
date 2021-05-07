@@ -57,6 +57,16 @@
 @import url(../blocks/calendar/__members/calendar__members.css);
 @import url(../blocks/calendar/__circle-btn/calendar__circle-btn.css);
 @import url(../blocks/calendar/_active/calendar_active.css);
+@import url(../blocks/calendar/_popup/calendar_popup.css);
+@import url(../blocks/calendar/__header/_popup/calendar__header_popup.css);
+@import url(../blocks/calendar/__contacts/_popup/calendar__contacts_popup.css);
+@import url(../blocks/calendar/__footer/_popup/calendar__footer_popup.css);
+@import url(../blocks/calendar/__title/_popup/calendar__title_popup.css);
+@import url(../blocks/calendar/__month/_popup/calendar__month_popup.css);
+@import url(../blocks/calendar/__date/_popup/calendar__date_popup.css);
+@import url(../blocks/calendar/__contact/_popup/calendar__contact_popup.css);
+@import url(../blocks/calendar/__article/calendar__article.css);
+@import url(../blocks/calendar/__activity/_popup/calendar__activity_popup.css);
 
 @import url(../blocks/caption/caption.css);
 @import url(../blocks/click-item/click-item.css);
@@ -77,3 +87,7 @@
 @import url(../blocks/page-title/page-title.css);
 @import url(../blocks/page-title/__buttons/page-title__buttons.css);
 @import url(../blocks/events/events.css);
+
+@import url(../blocks/popup/popup.css);
+@import url(../blocks/popup/_opened/popup_opened.css);
+@import url(../blocks/popup/__close-btn/popup__close-btn.css);

@@ -1,0 +1,15 @@
+.calendar__article {
+  font-weight: 400;
+  font-size: 18px;
+  line-height: 144%;
+  color: #000;
+  margin: 0 100px 30px 100px;
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .calendar__article {
+    font-size: 15px;
+    line-height: 140%;
+    margin: 0 15px 30px 15px;
+  }
+}

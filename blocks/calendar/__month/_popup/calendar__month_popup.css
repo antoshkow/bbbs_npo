@@ -1,0 +1,13 @@
+@media (min-width: 1024px) {
+  .calendar__month_popup {
+    font-size: 14px;
+    line-height: 136%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .calendar__month_popup {
+    font-size: 12px;
+    line-height: 142%;
+  }
+}

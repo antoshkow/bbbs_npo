@@ -21,11 +21,13 @@
   background: #e0e0e0;
 }
 
-@media (min-width: 320px) and (max-width: 640px) {
+@media (min-width: 320px) and (max-width: 1439px) {
   .button {
     min-width: 71px;
     height: 40px;
     font-size: 12px;
     line-height: 142%;
+    padding-left: 15px;
+    padding-right: 15px;
   }
 }

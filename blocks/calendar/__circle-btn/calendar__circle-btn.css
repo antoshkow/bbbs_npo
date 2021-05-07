@@ -5,6 +5,11 @@
   background-color: transparent;
   border: none;
   padding: 0;
+  border-radius: 30px;
+}
+
+.calendar__circle-btn:hover {
+  background-color: var(--light-blue);
 }
 
 @media (min-width: 320px) and (max-width: 1023px) {

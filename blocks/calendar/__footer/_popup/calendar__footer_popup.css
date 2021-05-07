@@ -1,0 +1,5 @@
+@media (min-width: 1024px) {
+  .calendar__footer_popup {
+    margin: 0 100px 50px 100px;
+  }
+}

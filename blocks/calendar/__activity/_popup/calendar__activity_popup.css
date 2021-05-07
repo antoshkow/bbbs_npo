@@ -1,0 +1,13 @@
+@media (min-width: 1024px) {
+  .calendar__activity_popup {
+    font-size: 23px;
+    line-height: 130%;
+  }
+}
+
+@media (min-width: 320px) and (max-width: 1023px) {
+  .calendar__activity_popup {
+    font-size: 19px;
+    line-height: 121%;
+  }
+}
