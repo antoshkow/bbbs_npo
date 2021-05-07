@@ -1,0 +1,9 @@
+.annotation__label {
+  margin: 0 0 10px;
+}
+
+@media (max-width: 1024px) {
+  .annotation__label {
+    margin-bottom: 5px;
+  }
+}

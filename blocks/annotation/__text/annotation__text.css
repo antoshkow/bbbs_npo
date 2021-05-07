@@ -1,0 +1,38 @@
+.annotation__text {
+  margin-top: auto;
+  font-size: 18px;
+  line-height: 115%;
+  color: var(--basic-black);
+}
+
+/*  у скролл бара нет поддержки в firefox*/
+.annotation__text::-webkit-scrollbar {
+  width: 5px;
+}
+
+.annotation__text::-webkit-scrollbar-track {
+  background-color: transparent;
+}
+
+.annotation__text::-webkit-scrollbar-thumb {
+  border-radius: 5px;
+  background-color: var(--scroll-gray);
+}
+
+@media (max-width: 1024px) {
+  .annotation__text {
+    max-height: 106px;
+    font-size: 15px;
+    line-height: 111%;
+    overflow-y: scroll;
+  }
+}
+
+@media (max-width: 768px) {
+  .annotation__text {
+    max-height: 87px;
+    font-size: 15px;
+    line-height: 111%;
+  }
+}
+

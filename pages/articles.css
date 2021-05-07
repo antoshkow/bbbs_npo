@@ -60,3 +60,9 @@
 @import url(../blocks/article/__subtitle/article__subtitle.css);
 @import url(../blocks/article/__photo/article__photo.css);
 @import url(../blocks/article/__link/article__link.css);
+
+@import url(../blocks/annotation/annotation.css);
+@import url(../blocks/annotation/__label/annotation__label.css);
+@import url(../blocks/annotation/__text/annotation__text.css);
+@import url(../blocks/annotation/__paragraph/annotation__paragraph.css);
+@import url(../blocks/annotation/_type/annotation_type_expended.css);

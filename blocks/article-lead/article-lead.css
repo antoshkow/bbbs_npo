@@ -1,5 +1,13 @@
 /* Artcile -lead */
 
 .article-lead {
+  display: flex;
+  flex-wrap: nowrap;
+  box-sizing: border-box;
+}
 
+@media (max-width: 1024px) {
+  .article-lead {
+    flex-wrap: wrap;
+  }
 }

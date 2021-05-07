@@ -8,19 +8,19 @@
 }
 
 @media (max-width: 1140px) {
-  .mantor__photo {
+  .article__photo {
     max-height: 629px;
   }
 }
 
 @media (max-width: 1024px) {
-  .mantor__photo {
+  .article__photo {
     max-height: 346px;
   }
 }
 
 @media (max-width: 768px) {
-  .mantor__photo {
+  .article__photo {
     max-height: 142px;
   }
 }
