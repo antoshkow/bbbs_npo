@@ -47,13 +47,13 @@
 
 @import url(../blocks/article-lead/article-lead.css);
 @import url(../blocks/articles/articles.css);
+
 @import url(../blocks/article/article.css);
 @import url(../blocks/article/_color/article_color_green.css);
 @import url(../blocks/article/_color/article_color_yellow.css);
 @import url(../blocks/article/_color/article_color_pink.css);
 @import url(../blocks/article/_color/article_color_light-blue.css);
-
-@import url(../blocks/article/_type/article_type_cover.css);
+@import url(../blocks/article/_type/article_type_photo.css);
 @import url(../blocks/article/__rubric/article__rubric.css);
 @import url(../blocks/article/__header/article__header.css);
 @import url(../blocks/article/__title/article__title.css);

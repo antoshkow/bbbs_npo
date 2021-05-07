@@ -56,7 +56,9 @@
 @import url(../blocks/click-item/click-item.css);
 
 @import url(../blocks/article/article.css);
+@import url(../blocks/article/_type/article_type_photo.css);
 @import url(../blocks/article/_type/article_type_cover.css);
+@import url(../blocks/article/_color/article_color_light-blue.css);
 @import url(../blocks/article/__rubric/article__rubric.css);
 @import url(../blocks/article/__header/article__header.css);
 @import url(../blocks/article/__title/article__title.css);
