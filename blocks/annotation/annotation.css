@@ -1,0 +1,24 @@
+/* Annotation */
+
+.annotation {
+  display: flex;
+  flex-direction: column;
+  flex-wrap: nowrap;
+  max-width: 585px;
+  padding: 30px;
+  background-color: var(--basic-white);
+  border-radius: 30px;
+  box-sizing: border-box;
+}
+
+@media (max-width: 1024px) {
+  .annotation{
+    max-width: 770px;
+  }
+}
+
+@media (max-width: 768px) {
+  .annotation {
+    max-width: 100%;
+  }
+}

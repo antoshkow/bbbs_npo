@@ -1,0 +1,17 @@
+.article_type_cover {
+  align-items: center;
+  max-width: 100%;
+  padding: 120px 400px 15px;
+}
+
+@media (max-width: 1024px) {
+  .article_type_cover {
+    padding: 30px 40px 15px;
+  }
+}
+
+@media (max-width: 768px) {
+  .article_type_cover {
+    padding: 30px 30px 15px;
+  }
+}

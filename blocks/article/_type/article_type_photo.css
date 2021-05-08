@@ -1,0 +1,5 @@
+.article_type_photo {
+  background-color: var(--basic-yellow);
+  flex-basis: 100%;
+  max-width: 1185px;
+}

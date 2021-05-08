@@ -39,26 +39,21 @@
 @import url(../blocks/search/__icon/search__icon.css);
 @import url(../blocks/search/__input/search__input.css);
 
-@import url(../blocks/calendar/calendar.css);
-@import url(../blocks/calendar/__activity/calendar__activity.css);
-@import url(../blocks/calendar/__button/calendar__btn.css);
-@import url(../blocks/calendar/__contacts/calendar__contacts.css);
-@import url(../blocks/calendar/__contact/calendar__contact.css);
-@import url(../blocks/calendar/__date/calendar__date.css);
-@import url(../blocks/calendar/__footer/calendar__footer.css);
-@import url(../blocks/calendar/__header/calendar__header.css);
-@import url(../blocks/calendar/__month/calendar__month.css);
-@import url(../blocks/calendar/__title/calendar__title.css);
+@import url(../blocks/articles/articles.css);
 
-@import url(../blocks/article-lead/article-lead.css);
 @import url(../blocks/rubric/rubric.css);
 @import url(../blocks/label/label.css);
 @import url(../blocks/click-item/click-item.css);
 
+@import url(../blocks/article-lead/article-lead.css);
+@import url(../blocks/articles/articles.css);
+
 @import url(../blocks/article/article.css);
-@import url(../blocks/article/_type/article_type_photo.css);
-@import url(../blocks/article/_type/article_type_cover.css);
+@import url(../blocks/article/_color/article_color_green.css);
+@import url(../blocks/article/_color/article_color_yellow.css);
+@import url(../blocks/article/_color/article_color_pink.css);
 @import url(../blocks/article/_color/article_color_light-blue.css);
+@import url(../blocks/article/_type/article_type_photo.css);
 @import url(../blocks/article/__rubric/article__rubric.css);
 @import url(../blocks/article/__header/article__header.css);
 @import url(../blocks/article/__title/article__title.css);

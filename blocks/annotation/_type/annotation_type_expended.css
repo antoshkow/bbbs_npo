@@ -1,0 +1,9 @@
+.annotation_type_expended {
+  padding: 47px 15px 69px 30px;
+}
+
+@media (max-width: 1024px) {
+  .annotation_type_expended {
+    padding: 15px 30px;
+  }
+}
